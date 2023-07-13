@@ -1,4 +1,6 @@
 # IMDb Data Analysis
+### Phase 1
+### Normal Task
 This repository contains the code and dataset for my IMDb data analysis project. During my internship at Coders Cave, I had the opportunity to dive into the fascinating world of IMDb and conduct a comprehensive analysis of an extensive movie database. This project aimed to extract valuable insights, identify trends, and uncover patterns within the data.
 ### Project Structure
 * imdb_top_1000.csv is the IMDB dataset used for the analysis. It is extracted from the kaggle.com
